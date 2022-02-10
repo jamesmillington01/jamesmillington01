@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamesmillington01
 - 👀 I’m interested in learning more about development, working with engineers, and technical recruiting.
-- 🌱 I’m currently learning how to write JavaScript and broadening my knowledge in technology.
-- 💞️ I’m looking to collaborate on software development hiring at Revolution Entertainment Services! 
+- 🏔 I’m currently learning how to write JavaScript and broadening my knowledge in technology.
+- 🤝 I’m looking to collaborate on software development hiring at Revolution Entertainment Services! 
 - 📫 How to reach me ... drop me a line at jimmyc.millington@gmail.com
 
 <!---
